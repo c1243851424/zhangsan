@@ -25,3 +25,4 @@
 f = input()
 g = input()
 print(len(f+g))
+print(12446541)
